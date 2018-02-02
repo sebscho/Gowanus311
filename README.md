@@ -6,5 +6,5 @@ What can this data-driven story tell us how when the neighborhood changed, and w
 # The Data
 - 311 Data: Open Data NYC 
 
-# Read the full story on Medium @sebscho
+# [Read the full story on Medium](https://towardsdatascience.com/what-can-311-noise-complaints-in-gowanus-tell-us-about-gentrification-444c7da0a07a)
 
